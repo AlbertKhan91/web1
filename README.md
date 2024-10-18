@@ -1,2 +1,20 @@
 # web1
 //myFerstWebDoc
+<!DOCTYPE html>
+
+<html lang="ru">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title> Пример простой страницы html</title>
+
+</head>
+
+<body>
+
+Пример простой страницы - для того, чтобы посмотреть код, нажмите ctrl + U
+</body>
+
+</html>
